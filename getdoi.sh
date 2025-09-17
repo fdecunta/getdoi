@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 usage() {
-    echo "Usage:  doi [REFERENCE]"
+    echo "Usage:  getdoi [REFERENCE]"
     echo "    [REFERENCE]  Paper to search in CrossRef"
 }
 
